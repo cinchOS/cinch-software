@@ -1,2 +1,2 @@
 # cinch-software
-cinch update manager and software center for AppImages (WIP)
+cinch update manager for core system and software center/Updater for AppImages (WIP)
